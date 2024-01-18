@@ -1,7 +1,7 @@
 ---
 title: simple_sqli
 author: sally
-date: 2024-01-17 23:24:00 +0800
+date: 2024-01-17 23:24:00 +0900
 categories: [Dreamhack, Web]
 tags: [web, sql injection, level1]
 img_path: /assets/img/posts/20240117/
